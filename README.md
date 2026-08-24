@@ -2,26 +2,20 @@
 
 Automação diária de dicas e curiosidades sobre exercícios físicos (corpo e mente).
 
-## Card de Exemplo (pronto para virar imagem)
+## Última curiosidade gerada (teste de automação)
 
 ```
 💪 CURIOSIDADE DE EXERCÍCIO
 
-Exercício aumenta a dopamina no cérebro!
+Exercício aumenta o BDNF (fertilizante do cérebro)!
 
-Atividade física eleva a disponibilidade de receptores de dopamina,
-revitalizando o sistema de recompensa e elevando o humor naturalmente.
+A atividade física estimula a produção de BDNF, proteína que promove crescimento de novos neurônios, melhora memória e protege contra depressão.
 
-Ilustração sugerida: pessoa correndo + cérebro sorridente + moléculas de dopamina
+Ilustração: cérebro brilhando + pessoa caminhando + folhas verdes de crescimento
 ```
 
-## Reflexão (pronta para gerar áudio)
+## Reflexão (pronta para áudio)
 
-Cada treino é um boost natural de motivação. Mova-se e sinta a energia subir!
+Mover o corpo é o melhor investimento no seu cérebro. Comece com 20 minutos hoje!
 
-## Como usar
-1. Copie o card para gerar imagem (ex: Grok Imagine ou Canva).
-2. Use a reflexão no Voice para gerar MP3.
-3. Adicione no Notion se quiser histórico.
-
-Data: 2026-08-24
+Data: 2026-08-24 (teste de commit automático)
