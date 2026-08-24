@@ -1,21 +1,23 @@
-# Curiosidades de Exercícios - Automação Textual
+# Curiosidades de Exercícios
 
-Automação diária de dicas e curiosidades sobre exercícios físicos (corpo e mente).
+Repositório que recebe apenas curiosidades diárias sobre exercícios físicos (corpo e mente).
 
-## Última curiosidade gerada (teste de automação)
+Cada arquivo em `/curiosidades/` é uma curiosidade pronta para card, áudio ou imagem.
+
+## Última curiosidade
 
 ```
 💪 CURIOSIDADE DE EXERCÍCIO
 
-Exercício aumenta o BDNF (fertilizante do cérebro)!
+Musculação melhora a qualidade do sono!
 
-A atividade física estimula a produção de BDNF, proteína que promove crescimento de novos neurônios, melhora memória e protege contra depressão.
+Treinar com pesos aumenta a profundidade do sono profundo (NREM), reduz insônia e regula o cortisol. O efeito é maior quando o treino é feito 4-6h antes de dormir.
 
-Ilustração: cérebro brilhando + pessoa caminhando + folhas verdes de crescimento
+Ilustração: pessoa levantando peso + lua + cérebro relaxado
 ```
 
-## Reflexão (pronta para áudio)
+## Reflexão
 
-Mover o corpo é o melhor investimento no seu cérebro. Comece com 20 minutos hoje!
+Um bom treino hoje = melhor descanso esta noite. Comece leve e seja consistente!
 
-Data: 2026-08-24 (teste de commit automático)
+Data: 2026-08-24
