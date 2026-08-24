@@ -9,15 +9,15 @@ Cada arquivo em `/curiosidades/` é uma curiosidade pronta para card, áudio ou 
 ```
 💪 CURIOSIDADE DE EXERCÍCIO
 
-Musculação melhora a qualidade do sono!
+Exercício fortalece o sistema imunológico até horas depois!
 
-Treinar com pesos aumenta a profundidade do sono profundo (NREM), reduz insônia e regula o cortisol. O efeito é maior quando o treino é feito 4-6h antes de dormir.
+Uma sessão de exercício moderado aumenta a circulação das células de defesa (natural killer cells) no sangue, ajudando o corpo a identificar e combater vírus e bactérias por algumas horas após o treino.
 
-Ilustração: pessoa levantando peso + lua + cérebro relaxado
+Ilustração: pessoa correndo + escudo brilhante + células de defesa estilizadas
 ```
 
 ## Reflexão
 
-Um bom treino hoje = melhor descanso esta noite. Comece leve e seja consistente!
+Seu treino de hoje também é um presente para o seu sistema imunológico. Mexa-se e proteja-se!
 
 Data: 2026-08-24
