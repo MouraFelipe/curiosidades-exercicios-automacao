@@ -9,15 +9,15 @@ Cada arquivo em `/curiosidades/` é uma curiosidade pronta para card, áudio ou 
 ```
 💪 CURIOSIDADE DE EXERCÍCIO
 
-Exercício fortalece o sistema imunológico até horas depois!
+Exercício faz seu cérebro criar neurônios novos!
 
-Uma sessão de exercício moderado aumenta a circulação das células de defesa (natural killer cells) no sangue, ajudando o corpo a identificar e combater vírus e bactérias por algumas horas após o treino.
+Atividades aeróbicas moderadas — como caminhada rápida, corrida leve ou dança — estimulam a neurogênese no hipocampo, a região do cérebro ligada à memória e ao aprendizado. Isso ajuda a manter a mente afiada e pode até proteger contra o declínio cognitivo relacionado à idade.
 
-Ilustração: pessoa correndo + escudo brilhante + células de defesa estilizadas
+Ilustração: pessoa correndo feliz + cérebro brilhante com neurônios estilizados
 ```
 
 ## Reflexão
 
-Seu treino de hoje também é um presente para o seu sistema imunológico. Mexa-se e proteja-se!
+Cada treino não fortalece só o corpo — também constrói um cérebro mais afiado. Mexa-se hoje pela sua memória de amanhã!
 
 Data: 2026-08-24
