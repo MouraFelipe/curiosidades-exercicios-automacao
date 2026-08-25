@@ -9,15 +9,15 @@ Cada arquivo em `/curiosidades/` é uma curiosidade pronta para card, áudio ou 
 ```
 💪 CURIOSIDADE DE EXERCÍCIO
 
-Exercício libera endorfina e melhora seu humor!
+Seu treino também fortalece os ossos!
 
-Só 20 minutos de atividade física já aumentam a liberação de endorfina e serotonina no cérebro, reduzindo o estresse e melhorando seu humor quase imediatamente — efeito conhecido como "runner's high".
+Exercícios com carga, como musculação, subir escadas e saltos leves, geram pequenos estímulos mecânicos que ativam células formadoras de osso. Com regularidade, isso ajuda a preservar a densidade óssea e reduzir o risco de osteoporose.
 
-Ilustração: pessoa sorrindo correndo ao ar livre, com corações e ondas de energia ao redor, ícone de cérebro/coração com raio de energia no topo
+Ilustração: personagem fazendo agachamento com halteres, ossos brilhando como escudo, ícones de músculo, osso e coração ao redor
 ```
 
 ## Reflexão
 
-Sentindo o dia pesado? Uma caminhada rápida pode ser o antidepressivo natural mais acessível que você tem.
+Cada repetição é um investimento no seu corpo do futuro.
 
-Data: 2026-08-24
+Data: 2026-08-25
